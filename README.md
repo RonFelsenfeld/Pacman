@@ -1,6 +1,6 @@
 # Pacman 🕹️
 
-## Pacman Description
+## Description
 
 A fun and interactive Pacman game built with HTML, JavaScript, and CSS. Navigate the classic maze, collect pellets and avoid ghosts to achieve the highest score. The game features responsive controls, retro-styled design, and dynamic gameplay that stays true to the original arcade experience. Perfect for nostalgia lovers and gaming enthusiasts!
 
