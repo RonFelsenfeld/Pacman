@@ -6,11 +6,11 @@ A fun and interactive Pacman game built with HTML, JavaScript, and CSS. Navigate
 
 ## Main Features
 
-> - **Keyboard Controls:** - Smooth and responsive keyboard navigation for Pacman.
-> - **Sound Effects:** - Engaging sounds for collecting items and gameplay events.
-> - **Score Count:** - Real-time score tracking as you collect pellets and cherries.
-> - **Power-Up Burgers:** - Gain a temporary ability to eat ghosts by collecting burgers.
-> - **Victory:** - Eat all the pellets on the board to win the game.
+- **Keyboard Controls:** - Smooth and responsive keyboard navigation for Pacman.
+- **Sound Effects:** - Engaging sounds for collecting items and gameplay events.
+- **Score Count:** - Real-time score tracking as you collect pellets and cherries.
+- **Power-Up Burgers:** - Gain a temporary ability to eat ghosts by collecting burgers.
+- **Victory:** - Eat all the pellets on the board to win the game.
 
 ## Local Installation
 
